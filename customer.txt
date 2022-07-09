@@ -1,0 +1,535 @@
+CustomerInfo
+IC:8325550
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:6231570
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:3456345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:9456735
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:5678435
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:4574546
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:8465542
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:2346523
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:1234123
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:2372345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+
+CustomerInfo
+IC:5649344
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+
+CustomerInfo
+IC:2458423
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+
+CustomerInfo
+IC:23454312
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+
+CustomerInfo
+IC:12361234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+
+CustomerInfo
+IC:91234124
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:912351235
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:12351235
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:456577564
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:23452345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:23452345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:435674356
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:12351235
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:12341236
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:12467234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:23145243
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:24357342
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:346453425
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:1236236
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+
+CustomerInfo
+IC:37846554
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:3453453
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:956756567
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:456456456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:2342345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:123123123
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:423234234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:345345345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:456234123
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:623454345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:23423672
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+
+CustomerInfo
+IC:456577564
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:1236234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:2346234634
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:12345234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:923453245
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:923452345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:334563456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:3456456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:4564562435
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:764674565
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:345345346
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:934534534
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:67976567
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:567567567
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:345345345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:345345345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:94235634256
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:2341234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:4536456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:456756457
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:67896789
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:45684568
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:45684568456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:4567456765
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:956976567
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:2346436342
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:34574356
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:234732474
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:345734576
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:564456345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:345734554
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:2376452345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:3458456364
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+
+CustomerInfo
+IC:234523734
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:234523476
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:2374245354
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:34563456
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:2345234766
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:45684536
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:4567563
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:123412341234
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+CustomerInfo
+IC:234523452345
+ITEM:Ikan Siakap;QTY:3;RM:20.99
+ITEM:Burger;QTY:3;RM:10.50
+ITEM:Ayam Goreng;QTY:3;RM:4.00
+ITEM:Daging Lembu;QTY:3;RM:16.00
+ITEM:Daging Kambing;QTY:3;RM:18.00
+ITEM:Air Sirap;QTY:3;RM:1.50
+ITEM:Teh Ais Lemau;QTY:3;RM:1.80
+
+
